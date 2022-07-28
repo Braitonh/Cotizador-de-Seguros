@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cotizador-de-Seguros/static/css/main.69645dc8.css",
+    "main.js": "/Cotizador-de-Seguros/static/js/main.d2928206.js",
+    "index.html": "/Cotizador-de-Seguros/index.html",
+    "main.69645dc8.css.map": "/Cotizador-de-Seguros/static/css/main.69645dc8.css.map",
+    "main.d2928206.js.map": "/Cotizador-de-Seguros/static/js/main.d2928206.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69645dc8.css",
+    "static/js/main.d2928206.js"
+  ]
+}
